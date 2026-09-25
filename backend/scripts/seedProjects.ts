@@ -41,7 +41,7 @@ const projects = [
 
     liveDemo: "https://fleetdash-frontend.onrender.com/",
     github:
-      "https://github.com/AbhayTYagi9012543171/FleetDash-frontend",
+      "https://github.com/prashant25161166-lang/Mern_Portfolio/FleetDash-frontend",
 
     category: "MERN Stack",
     featured: true,
